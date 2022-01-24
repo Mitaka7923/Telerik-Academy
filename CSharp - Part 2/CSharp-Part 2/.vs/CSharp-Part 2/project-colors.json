@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "497623b0-57c5-4606-ba46-9c80b21c6f6b": {
+      "ProjectGuid": "497623b0-57c5-4606-ba46-9c80b21c6f6b",
+      "DisplayName": "01. AllocateArray",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6614c1ff-4fff-4184-95c4-bbf8bd2f1982": {
+      "ProjectGuid": "6614c1ff-4fff-4184-95c4-bbf8bd2f1982",
+      "DisplayName": "02. CompareArrays",
+      "ColorIndex": 1
+    },
+    "3db17673-489d-4c32-a511-2498af991be7": {
+      "ProjectGuid": "3db17673-489d-4c32-a511-2498af991be7",
+      "DisplayName": "03. CompareCharArrays",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

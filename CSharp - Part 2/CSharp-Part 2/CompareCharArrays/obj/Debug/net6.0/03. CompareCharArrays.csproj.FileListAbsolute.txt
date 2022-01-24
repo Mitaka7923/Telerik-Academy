@@ -1,0 +1,15 @@
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\bin\Debug\net6.0\03. CompareCharArrays.exe
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\bin\Debug\net6.0\03. CompareCharArrays.deps.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\bin\Debug\net6.0\03. CompareCharArrays.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\bin\Debug\net6.0\03. CompareCharArrays.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\bin\Debug\net6.0\ref\03. CompareCharArrays.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\bin\Debug\net6.0\03. CompareCharArrays.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\obj\Debug\net6.0\03. CompareCharArrays.csproj.AssemblyReference.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\obj\Debug\net6.0\03. CompareCharArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\obj\Debug\net6.0\03. CompareCharArrays.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\obj\Debug\net6.0\03. CompareCharArrays.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\obj\Debug\net6.0\03. CompareCharArrays.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\obj\Debug\net6.0\03. CompareCharArrays.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\obj\Debug\net6.0\ref\03. CompareCharArrays.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\obj\Debug\net6.0\03. CompareCharArrays.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\CSharp-Part 2\03. CompareCharArrays\obj\Debug\net6.0\03. CompareCharArrays.genruntimeconfig.cache
