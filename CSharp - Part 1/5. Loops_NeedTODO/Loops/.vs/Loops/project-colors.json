@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebac1247-243e-42f3-946f-414d70d888cf": {
+      "ProjectGuid": "ebac1247-243e-42f3-946f-414d70d888cf",
+      "DisplayName": "01.NumbersFrom1ToN",
+      "ColorIndex": 0
+    },
+    "6ab97a6f-2543-4e18-b8c9-ca530db322c8": {
+      "ProjectGuid": "6ab97a6f-2543-4e18-b8c9-ca530db322c8",
+      "DisplayName": "02. NotDivisibleBy3And7",
+      "ColorIndex": 1
+    },
+    "8b286a76-84f1-492f-915f-c61e26986a45": {
+      "ProjectGuid": "8b286a76-84f1-492f-915f-c61e26986a45",
+      "DisplayName": "03.Min_Max_Sum_AvgOfNNumbers_H",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

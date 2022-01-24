@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\bin\Debug\net5.0\03.CirclePerimeterAndArea.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\bin\Debug\net5.0\03.CirclePerimeterAndArea.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\bin\Debug\net5.0\03.CirclePerimeterAndArea.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\bin\Debug\net5.0\03.CirclePerimeterAndArea.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\bin\Debug\net5.0\03.CirclePerimeterAndArea.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\bin\Debug\net5.0\ref\03.CirclePerimeterAndArea.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\bin\Debug\net5.0\03.CirclePerimeterAndArea.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\obj\Debug\net5.0\03.CirclePerimeterAndArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\obj\Debug\net5.0\03.CirclePerimeterAndArea.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\obj\Debug\net5.0\03.CirclePerimeterAndArea.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\obj\Debug\net5.0\03.CirclePerimeterAndArea.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\obj\Debug\net5.0\03.CirclePerimeterAndArea.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\obj\Debug\net5.0\ref\03.CirclePerimeterAndArea.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\obj\Debug\net5.0\03.CirclePerimeterAndArea.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\obj\Debug\net5.0\03.CirclePerimeterAndArea.genruntimeconfig.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Circle Perimeter And Area\obj\Debug\net5.0\03.CirclePerimeterAndArea.csproj.AssemblyReference.cache

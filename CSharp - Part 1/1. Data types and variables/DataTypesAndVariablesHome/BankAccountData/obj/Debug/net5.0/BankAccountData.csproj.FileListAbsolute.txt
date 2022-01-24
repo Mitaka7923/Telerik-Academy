@@ -1,0 +1,16 @@
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\bin\Debug\net5.0\BankAccountData.exe
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\bin\Debug\net5.0\BankAccountData.deps.json
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\bin\Debug\net5.0\BankAccountData.runtimeconfig.json
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\bin\Debug\net5.0\BankAccountData.runtimeconfig.dev.json
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\bin\Debug\net5.0\BankAccountData.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\bin\Debug\net5.0\ref\BankAccountData.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\bin\Debug\net5.0\BankAccountData.pdb
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\obj\Debug\net5.0\BankAccountData.csproj.AssemblyReference.cache
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\obj\Debug\net5.0\BankAccountData.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\obj\Debug\net5.0\BankAccountData.AssemblyInfoInputs.cache
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\obj\Debug\net5.0\BankAccountData.AssemblyInfo.cs
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\obj\Debug\net5.0\BankAccountData.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\obj\Debug\net5.0\BankAccountData.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\obj\Debug\net5.0\ref\BankAccountData.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\obj\Debug\net5.0\BankAccountData.pdb
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\BankAccountData\obj\Debug\net5.0\BankAccountData.genruntimeconfig.cache

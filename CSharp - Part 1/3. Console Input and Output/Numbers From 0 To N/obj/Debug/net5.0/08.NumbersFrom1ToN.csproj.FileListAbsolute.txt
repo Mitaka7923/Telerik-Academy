@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\bin\Debug\net5.0\08.NumbersFrom1ToN.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\bin\Debug\net5.0\08.NumbersFrom1ToN.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\bin\Debug\net5.0\08.NumbersFrom1ToN.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\bin\Debug\net5.0\08.NumbersFrom1ToN.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\bin\Debug\net5.0\08.NumbersFrom1ToN.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\bin\Debug\net5.0\ref\08.NumbersFrom1ToN.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\bin\Debug\net5.0\08.NumbersFrom1ToN.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\obj\Debug\net5.0\08.NumbersFrom1ToN.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\obj\Debug\net5.0\08.NumbersFrom1ToN.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\obj\Debug\net5.0\08.NumbersFrom1ToN.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\obj\Debug\net5.0\08.NumbersFrom1ToN.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\obj\Debug\net5.0\08.NumbersFrom1ToN.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\obj\Debug\net5.0\ref\08.NumbersFrom1ToN.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\obj\Debug\net5.0\08.NumbersFrom1ToN.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Numbers From 0 To N\obj\Debug\net5.0\08.NumbersFrom1ToN.genruntimeconfig.cache

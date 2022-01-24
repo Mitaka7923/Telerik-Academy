@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a08ba75-2c4c-4c6c-9166-2135cefa3e18": {
+      "ProjectGuid": "0a08ba75-2c4c-4c6c-9166-2135cefa3e18",
+      "DisplayName": "01. PlayWithVisualStudio",
+      "ColorIndex": 0
+    },
+    "8dd37c10-5833-404a-9d14-88053d8b4178": {
+      "ProjectGuid": "8dd37c10-5833-404a-9d14-88053d8b4178",
+      "DisplayName": "02. BlankSolutioninVisualStudio",
+      "ColorIndex": 1
+    },
+    "1e2bf254-4cb2-495a-b783-fc1dd1956922": {
+      "ProjectGuid": "1e2bf254-4cb2-495a-b783-fc1dd1956922",
+      "DisplayName": "03. PlayWithMSDN",
+      "ColorIndex": 2
+    },
+    "b0b7d2fe-c99c-4c2d-90da-60c3e9160769": {
+      "ProjectGuid": "b0b7d2fe-c99c-4c2d-90da-60c3e9160769",
+      "DisplayName": "04. HelloWorld",
+      "ColorIndex": 3
+    },
+    "5b150f0d-26ca-4f75-9301-b676c90efd5f": {
+      "ProjectGuid": "5b150f0d-26ca-4f75-9301-b676c90efd5f",
+      "DisplayName": "05. PrintMyName",
+      "ColorIndex": 4
+    },
+    "13f9df34-684f-4696-9601-c1d71abe5011": {
+      "ProjectGuid": "13f9df34-684f-4696-9601-c1d71abe5011",
+      "DisplayName": "06. PrintNumbers",
+      "ColorIndex": 5
+    },
+    "bfec3687-baf4-41fa-8abe-4d84b3c5637a": {
+      "ProjectGuid": "bfec3687-baf4-41fa-8abe-4d84b3c5637a",
+      "DisplayName": "07. PrintFirstAndLastName",
+      "ColorIndex": 6
+    },
+    "ae465494-ac80-465e-aa89-9fd0d07b6b85": {
+      "ProjectGuid": "ae465494-ac80-465e-aa89-9fd0d07b6b85",
+      "DisplayName": "08. SquareRoot",
+      "ColorIndex": 7
+    },
+    "015c6cfe-f2e4-4e11-af4c-8f9e00f5f435": {
+      "ProjectGuid": "015c6cfe-f2e4-4e11-af4c-8f9e00f5f435",
+      "DisplayName": "09. PrintingSequenceOfNum",
+      "ColorIndex": 8
+    },
+    "e3a47f78-cf87-4de9-9edf-ac877644fd81": {
+      "ProjectGuid": "e3a47f78-cf87-4de9-9edf-ac877644fd81",
+      "DisplayName": "10. ReformatCode",
+      "ColorIndex": 9
+    },
+    "9ef891eb-fd8e-4508-b62e-aa3743754c0a": {
+      "ProjectGuid": "9ef891eb-fd8e-4508-b62e-aa3743754c0a",
+      "DisplayName": "14. CurrentDateTime",
+      "ColorIndex": 10
+    },
+    "e0a341b7-cc6b-40d5-919c-ace8a6f80a4f": {
+      "ProjectGuid": "e0a341b7-cc6b-40d5-919c-ace8a6f80a4f",
+      "DisplayName": "15. AgeAfter10Years",
+      "ColorIndex": 11
+    },
+    "065c762b-a705-4b16-964e-297a5be5124b": {
+      "ProjectGuid": "065c762b-a705-4b16-964e-297a5be5124b",
+      "DisplayName": "16. PrintLongSequence",
+      "ColorIndex": 12
+    },
+    "372023a0-32e2-4235-9b35-123b0df4be36": {
+      "ProjectGuid": "372023a0-32e2-4235-9b35-123b0df4be36",
+      "DisplayName": "17. PlayWithDebug",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLwQDgyx/URLfDnpaNU3Vx3nHZ6qW/pgfbfJOGvBal8qVYGHXMxq4cP5L5nRqZGV5nLx9wdN7ENbRag3Hg15+w==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\HomeWork\\3. Console Input and Output\\Numbers From 0 To N\\08.NumbersFrom1ToN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

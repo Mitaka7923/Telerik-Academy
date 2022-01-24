@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8vCjlnORIENGSl58LTRxr3GMP50mXyOn1yS/usvPqsbToTo4dJJwYbvzCu7vJufDIdz4pcOgj3LPc08hdpKNw==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\HomeWork\\3. Console Input and Output\\Fibonacci Numbers\\10.FibonacciNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

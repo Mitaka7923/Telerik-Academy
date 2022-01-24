@@ -1,0 +1,15 @@
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\bin\Debug\net6.0\11. NumberAsWord_H.exe
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\bin\Debug\net6.0\11. NumberAsWord_H.deps.json
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\bin\Debug\net6.0\11. NumberAsWord_H.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\bin\Debug\net6.0\11. NumberAsWord_H.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\bin\Debug\net6.0\ref\11. NumberAsWord_H.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\bin\Debug\net6.0\11. NumberAsWord_H.pdb
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\obj\Debug\net6.0\11. NumberAsWord_H.csproj.AssemblyReference.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\obj\Debug\net6.0\11. NumberAsWord_H.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\obj\Debug\net6.0\11. NumberAsWord_H.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\obj\Debug\net6.0\11. NumberAsWord_H.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\obj\Debug\net6.0\11. NumberAsWord_H.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\obj\Debug\net6.0\11. NumberAsWord_H.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\obj\Debug\net6.0\ref\11. NumberAsWord_H.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\obj\Debug\net6.0\11. NumberAsWord_H.pdb
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\4. Conditional statements\Conditional Statements\NumberAsWord\obj\Debug\net6.0\11. NumberAsWord_H.genruntimeconfig.cache

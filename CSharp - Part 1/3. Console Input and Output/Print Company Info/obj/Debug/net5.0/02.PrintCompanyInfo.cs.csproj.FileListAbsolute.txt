@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\bin\Debug\net5.0\02.PrintCompanyInfo.cs.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\bin\Debug\net5.0\02.PrintCompanyInfo.cs.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\bin\Debug\net5.0\02.PrintCompanyInfo.cs.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\bin\Debug\net5.0\02.PrintCompanyInfo.cs.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\bin\Debug\net5.0\02.PrintCompanyInfo.cs.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\bin\Debug\net5.0\ref\02.PrintCompanyInfo.cs.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\bin\Debug\net5.0\02.PrintCompanyInfo.cs.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\obj\Debug\net5.0\02.PrintCompanyInfo.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\obj\Debug\net5.0\02.PrintCompanyInfo.cs.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\obj\Debug\net5.0\02.PrintCompanyInfo.cs.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\obj\Debug\net5.0\02.PrintCompanyInfo.cs.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\obj\Debug\net5.0\02.PrintCompanyInfo.cs.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\obj\Debug\net5.0\ref\02.PrintCompanyInfo.cs.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\obj\Debug\net5.0\02.PrintCompanyInfo.cs.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\obj\Debug\net5.0\02.PrintCompanyInfo.cs.genruntimeconfig.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Print Company Info\obj\Debug\net5.0\02.PrintCompanyInfo.cs.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\ref\08. PrimeNumberCheck.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\ref\08. PrimeNumberCheck.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck.genruntimeconfig.cache

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac10c7c0-b183-4d34-98b3-8cd222ffdb83": {
+      "ProjectGuid": "ac10c7c0-b183-4d34-98b3-8cd222ffdb83",
+      "DisplayName": "01. ExchangeIfGreater",
+      "ColorIndex": 0
+    },
+    "56c7e15d-8e71-4546-a46f-f77beb9d84eb": {
+      "ProjectGuid": "56c7e15d-8e71-4546-a46f-f77beb9d84eb",
+      "DisplayName": "02. BonusScore",
+      "ColorIndex": 1
+    },
+    "764d7975-54ac-4f93-a883-caa87ce56cac": {
+      "ProjectGuid": "764d7975-54ac-4f93-a883-caa87ce56cac",
+      "DisplayName": "03. CheckForPlayCard",
+      "ColorIndex": 2
+    },
+    "529a1a6a-d5a3-4974-bbda-7de615631cef": {
+      "ProjectGuid": "529a1a6a-d5a3-4974-bbda-7de615631cef",
+      "DisplayName": "04. MultiplicationSign",
+      "ColorIndex": 3
+    },
+    "76dd3c3e-e259-4010-b76c-0ba87c79c822": {
+      "ProjectGuid": "76dd3c3e-e259-4010-b76c-0ba87c79c822",
+      "DisplayName": "05. BiggestOf3Numbers",
+      "ColorIndex": 4
+    },
+    "8e2a5f2a-4865-4061-b0b5-5c052140364b": {
+      "ProjectGuid": "8e2a5f2a-4865-4061-b0b5-5c052140364b",
+      "DisplayName": "06. BiggestOf5Numbers",
+      "ColorIndex": 5
+    },
+    "60bcd857-6ec1-4080-8169-c21a946113c5": {
+      "ProjectGuid": "60bcd857-6ec1-4080-8169-c21a946113c5",
+      "DisplayName": "07. Sort3NumbersWithNestedIfs",
+      "ColorIndex": 6
+    },
+    "819d8c6c-6053-4bb5-95ab-1db10195497f": {
+      "ProjectGuid": "819d8c6c-6053-4bb5-95ab-1db10195497f",
+      "DisplayName": "12. ZeroSubset_H",
+      "ColorIndex": 7
+    },
+    "4e296f5b-6682-4773-8889-d41d25cafe9c": {
+      "ProjectGuid": "4e296f5b-6682-4773-8889-d41d25cafe9c",
+      "DisplayName": "11. NumberAsWord_H",
+      "ColorIndex": 8
+    },
+    "86047c79-385b-4e97-863d-a9de2edacc4d": {
+      "ProjectGuid": "86047c79-385b-4e97-863d-a9de2edacc4d",
+      "DisplayName": "10. BeerTime_H",
+      "ColorIndex": 9
+    },
+    "62d74ddb-9c47-4a2a-9bf9-926fa0c43af6": {
+      "ProjectGuid": "62d74ddb-9c47-4a2a-9bf9-926fa0c43af6",
+      "DisplayName": "09. PlayWithIntDoubleAndString",
+      "ColorIndex": 10
+    },
+    "16acf12f-f0e9-4212-90bc-bde151326d6f": {
+      "ProjectGuid": "16acf12f-f0e9-4212-90bc-bde151326d6f",
+      "DisplayName": "08. DigitAsWord",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

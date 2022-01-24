@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\bin\Debug\net5.0\04.NumberComparer.cs.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\bin\Debug\net5.0\04.NumberComparer.cs.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\bin\Debug\net5.0\04.NumberComparer.cs.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\bin\Debug\net5.0\04.NumberComparer.cs.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\bin\Debug\net5.0\04.NumberComparer.cs.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\bin\Debug\net5.0\ref\04.NumberComparer.cs.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\bin\Debug\net5.0\04.NumberComparer.cs.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\obj\Debug\net5.0\04.NumberComparer.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\obj\Debug\net5.0\04.NumberComparer.cs.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\obj\Debug\net5.0\04.NumberComparer.cs.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\obj\Debug\net5.0\04.NumberComparer.cs.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\obj\Debug\net5.0\04.NumberComparer.cs.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\obj\Debug\net5.0\ref\04.NumberComparer.cs.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\obj\Debug\net5.0\04.NumberComparer.cs.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Number Comparer\obj\Debug\net5.0\04.NumberComparer.cs.genruntimeconfig.cache

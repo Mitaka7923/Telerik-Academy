@@ -1,0 +1,14 @@
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\bin\Debug\net6.0\09. PlayWithIntDoubleAndString.exe
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\bin\Debug\net6.0\09. PlayWithIntDoubleAndString.deps.json
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\bin\Debug\net6.0\09. PlayWithIntDoubleAndString.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\bin\Debug\net6.0\09. PlayWithIntDoubleAndString.dll
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\bin\Debug\net6.0\ref\09. PlayWithIntDoubleAndString.dll
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\bin\Debug\net6.0\09. PlayWithIntDoubleAndString.pdb
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\obj\Debug\net6.0\09. PlayWithIntDoubleAndString.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\obj\Debug\net6.0\09. PlayWithIntDoubleAndString.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\obj\Debug\net6.0\09. PlayWithIntDoubleAndString.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\obj\Debug\net6.0\09. PlayWithIntDoubleAndString.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\obj\Debug\net6.0\09. PlayWithIntDoubleAndString.dll
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\obj\Debug\net6.0\ref\09. PlayWithIntDoubleAndString.dll
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\obj\Debug\net6.0\09. PlayWithIntDoubleAndString.pdb
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\PlayWithIntDoubleAndString\obj\Debug\net6.0\09. PlayWithIntDoubleAndString.genruntimeconfig.cache

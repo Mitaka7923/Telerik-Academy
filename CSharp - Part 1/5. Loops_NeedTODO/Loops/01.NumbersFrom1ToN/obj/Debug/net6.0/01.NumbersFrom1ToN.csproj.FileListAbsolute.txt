@@ -1,0 +1,15 @@
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\bin\Debug\net6.0\01.NumbersFrom1ToN.exe
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\bin\Debug\net6.0\01.NumbersFrom1ToN.deps.json
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\bin\Debug\net6.0\01.NumbersFrom1ToN.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\bin\Debug\net6.0\01.NumbersFrom1ToN.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\bin\Debug\net6.0\ref\01.NumbersFrom1ToN.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\bin\Debug\net6.0\01.NumbersFrom1ToN.pdb
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\obj\Debug\net6.0\01.NumbersFrom1ToN.csproj.AssemblyReference.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\obj\Debug\net6.0\01.NumbersFrom1ToN.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\obj\Debug\net6.0\01.NumbersFrom1ToN.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\obj\Debug\net6.0\01.NumbersFrom1ToN.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\obj\Debug\net6.0\01.NumbersFrom1ToN.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\obj\Debug\net6.0\01.NumbersFrom1ToN.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\obj\Debug\net6.0\ref\01.NumbersFrom1ToN.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\obj\Debug\net6.0\01.NumbersFrom1ToN.pdb
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\01.NumbersFrom1ToN\obj\Debug\net6.0\01.NumbersFrom1ToN.genruntimeconfig.cache

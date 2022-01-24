@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\bin\Debug\net5.0\11. BitWise_H.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\bin\Debug\net5.0\11. BitWise_H.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\bin\Debug\net5.0\11. BitWise_H.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\bin\Debug\net5.0\11. BitWise_H.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\bin\Debug\net5.0\11. BitWise_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\bin\Debug\net5.0\ref\11. BitWise_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\bin\Debug\net5.0\11. BitWise_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\obj\Debug\net5.0\11. BitWise_H.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\obj\Debug\net5.0\11. BitWise_H.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\obj\Debug\net5.0\11. BitWise_H.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\obj\Debug\net5.0\11. BitWise_H.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\obj\Debug\net5.0\11. BitWise_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\obj\Debug\net5.0\ref\11. BitWise_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\obj\Debug\net5.0\11. BitWise_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\BitWise\obj\Debug\net5.0\11. BitWise_H.genruntimeconfig.cache

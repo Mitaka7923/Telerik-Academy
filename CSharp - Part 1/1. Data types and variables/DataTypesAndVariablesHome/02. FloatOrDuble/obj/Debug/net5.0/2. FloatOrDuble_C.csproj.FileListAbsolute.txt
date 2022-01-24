@@ -1,0 +1,32 @@
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.exe
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.deps.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.runtimeconfig.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\bin\Debug\net5.0\ref\2. FloatOrDuble_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.pdb
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\obj\Debug\net5.0\ref\2. FloatOrDuble_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.pdb
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.genruntimeconfig.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.exe
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.deps.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.runtimeconfig.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\bin\Debug\net5.0\ref\2. FloatOrDuble_C.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\bin\Debug\net5.0\2. FloatOrDuble_C.pdb
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\obj\Debug\net5.0\ref\2. FloatOrDuble_C.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.pdb
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\02. FloatOrDuble\obj\Debug\net5.0\2. FloatOrDuble_C.genruntimeconfig.cache

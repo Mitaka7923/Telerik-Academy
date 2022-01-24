@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\bin\Debug\net5.0\02. GravitationOnTheMoon.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\bin\Debug\net5.0\02. GravitationOnTheMoon.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\bin\Debug\net5.0\02. GravitationOnTheMoon.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\bin\Debug\net5.0\02. GravitationOnTheMoon.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\bin\Debug\net5.0\02. GravitationOnTheMoon.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\bin\Debug\net5.0\ref\02. GravitationOnTheMoon.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\bin\Debug\net5.0\02. GravitationOnTheMoon.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\obj\Debug\net5.0\02. GravitationOnTheMoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\obj\Debug\net5.0\02. GravitationOnTheMoon.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\obj\Debug\net5.0\02. GravitationOnTheMoon.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\obj\Debug\net5.0\02. GravitationOnTheMoon.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\obj\Debug\net5.0\02. GravitationOnTheMoon.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\obj\Debug\net5.0\ref\02. GravitationOnTheMoon.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\obj\Debug\net5.0\02. GravitationOnTheMoon.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\obj\Debug\net5.0\02. GravitationOnTheMoon.genruntimeconfig.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\GravitationOnTheMoon\obj\Debug\net5.0\02. GravitationOnTheMoon.csproj.AssemblyReference.cache

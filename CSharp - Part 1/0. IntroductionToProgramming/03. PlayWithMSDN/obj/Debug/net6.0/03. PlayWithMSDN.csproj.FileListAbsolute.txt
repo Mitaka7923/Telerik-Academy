@@ -1,0 +1,5 @@
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\0. IntroductionToProgramming\03. PlayWithMSDN\obj\Debug\net6.0\03. PlayWithMSDN.csproj.AssemblyReference.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\0. IntroductionToProgramming\03. PlayWithMSDN\obj\Debug\net6.0\03. PlayWithMSDN.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\0. IntroductionToProgramming\03. PlayWithMSDN\obj\Debug\net6.0\03. PlayWithMSDN.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\0. IntroductionToProgramming\03. PlayWithMSDN\obj\Debug\net6.0\03. PlayWithMSDN.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\0. IntroductionToProgramming\03. PlayWithMSDN\obj\Debug\net6.0\03. PlayWithMSDN.csproj.CoreCompileInputs.cache

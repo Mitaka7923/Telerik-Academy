@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\bin\Debug\net5.0\10. FibonacciNumbers.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\bin\Debug\net5.0\10. FibonacciNumbers.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\bin\Debug\net5.0\10. FibonacciNumbers.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\bin\Debug\net5.0\10. FibonacciNumbers.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\bin\Debug\net5.0\10. FibonacciNumbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\bin\Debug\net5.0\ref\10. FibonacciNumbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\bin\Debug\net5.0\10. FibonacciNumbers.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\obj\Debug\net5.0\10. FibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\obj\Debug\net5.0\10. FibonacciNumbers.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\obj\Debug\net5.0\10. FibonacciNumbers.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\obj\Debug\net5.0\10. FibonacciNumbers.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\obj\Debug\net5.0\10. FibonacciNumbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\obj\Debug\net5.0\ref\10. FibonacciNumbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\obj\Debug\net5.0\10. FibonacciNumbers.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Fibonacci Numbers\obj\Debug\net5.0\10. FibonacciNumbers.genruntimeconfig.cache

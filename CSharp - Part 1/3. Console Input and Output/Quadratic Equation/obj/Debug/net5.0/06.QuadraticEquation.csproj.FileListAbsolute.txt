@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\bin\Debug\net5.0\06.QuadraticEquation.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\bin\Debug\net5.0\06.QuadraticEquation.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\bin\Debug\net5.0\06.QuadraticEquation.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\bin\Debug\net5.0\06.QuadraticEquation.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\bin\Debug\net5.0\06.QuadraticEquation.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\bin\Debug\net5.0\ref\06.QuadraticEquation.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\bin\Debug\net5.0\06.QuadraticEquation.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\obj\Debug\net5.0\06.QuadraticEquation.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\obj\Debug\net5.0\06.QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\obj\Debug\net5.0\06.QuadraticEquation.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\obj\Debug\net5.0\06.QuadraticEquation.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\obj\Debug\net5.0\06.QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\obj\Debug\net5.0\06.QuadraticEquation.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\obj\Debug\net5.0\ref\06.QuadraticEquation.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\obj\Debug\net5.0\06.QuadraticEquation.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Quadratic Equation\obj\Debug\net5.0\06.QuadraticEquation.genruntimeconfig.cache

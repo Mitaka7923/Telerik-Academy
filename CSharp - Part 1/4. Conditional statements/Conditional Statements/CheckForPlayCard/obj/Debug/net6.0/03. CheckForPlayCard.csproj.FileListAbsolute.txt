@@ -1,0 +1,14 @@
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\bin\Debug\net6.0\03. CheckForPlayCard.exe
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\bin\Debug\net6.0\03. CheckForPlayCard.deps.json
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\bin\Debug\net6.0\03. CheckForPlayCard.runtimeconfig.json
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\bin\Debug\net6.0\03. CheckForPlayCard.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\bin\Debug\net6.0\ref\03. CheckForPlayCard.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\bin\Debug\net6.0\03. CheckForPlayCard.pdb
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\obj\Debug\net6.0\03. CheckForPlayCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\obj\Debug\net6.0\03. CheckForPlayCard.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\obj\Debug\net6.0\03. CheckForPlayCard.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\obj\Debug\net6.0\03. CheckForPlayCard.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\obj\Debug\net6.0\03. CheckForPlayCard.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\obj\Debug\net6.0\ref\03. CheckForPlayCard.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\obj\Debug\net6.0\03. CheckForPlayCard.pdb
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\CheckForPlayCard\obj\Debug\net6.0\03. CheckForPlayCard.genruntimeconfig.cache

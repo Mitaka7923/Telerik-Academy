@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger_H.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger_H.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger_H.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger_H.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\ref\12. ExtractBitfromInteger_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger_H.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger_H.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger_H.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger_H.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger_H.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\ref\12. ExtractBitfromInteger_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger_H.genruntimeconfig.cache

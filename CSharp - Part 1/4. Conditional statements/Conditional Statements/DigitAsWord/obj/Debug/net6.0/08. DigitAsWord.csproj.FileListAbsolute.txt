@@ -1,0 +1,14 @@
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\bin\Debug\net6.0\08. DigitAsWord.exe
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\bin\Debug\net6.0\08. DigitAsWord.deps.json
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\bin\Debug\net6.0\08. DigitAsWord.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\bin\Debug\net6.0\08. DigitAsWord.dll
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\bin\Debug\net6.0\ref\08. DigitAsWord.dll
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\bin\Debug\net6.0\08. DigitAsWord.pdb
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\obj\Debug\net6.0\08. DigitAsWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\obj\Debug\net6.0\08. DigitAsWord.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\obj\Debug\net6.0\08. DigitAsWord.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\obj\Debug\net6.0\08. DigitAsWord.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\obj\Debug\net6.0\08. DigitAsWord.dll
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\obj\Debug\net6.0\ref\08. DigitAsWord.dll
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\obj\Debug\net6.0\08. DigitAsWord.pdb
+D:\DimitarProjects\Telerik-Academy\4. Conditional statements\Conditional Statements\DigitAsWord\obj\Debug\net6.0\08. DigitAsWord.genruntimeconfig.cache

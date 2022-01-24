@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\bin\Debug\net5.0\04. Rectangles.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\bin\Debug\net5.0\04. Rectangles.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\bin\Debug\net5.0\04. Rectangles.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\bin\Debug\net5.0\04. Rectangles.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\bin\Debug\net5.0\04. Rectangles.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\bin\Debug\net5.0\ref\04. Rectangles.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\bin\Debug\net5.0\04. Rectangles.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\obj\Debug\net5.0\04. Rectangles.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\obj\Debug\net5.0\04. Rectangles.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\obj\Debug\net5.0\04. Rectangles.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\obj\Debug\net5.0\04. Rectangles.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\obj\Debug\net5.0\04. Rectangles.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\obj\Debug\net5.0\04. Rectangles.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\obj\Debug\net5.0\ref\04. Rectangles.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\obj\Debug\net5.0\04. Rectangles.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Rectangles\obj\Debug\net5.0\04. Rectangles.genruntimeconfig.cache

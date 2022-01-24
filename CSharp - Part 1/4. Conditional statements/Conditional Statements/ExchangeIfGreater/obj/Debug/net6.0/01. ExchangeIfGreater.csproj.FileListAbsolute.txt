@@ -1,0 +1,14 @@
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\bin\Debug\net6.0\01. ExchangeIfGreater.exe
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\bin\Debug\net6.0\01. ExchangeIfGreater.deps.json
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\bin\Debug\net6.0\01. ExchangeIfGreater.runtimeconfig.json
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\bin\Debug\net6.0\01. ExchangeIfGreater.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\bin\Debug\net6.0\ref\01. ExchangeIfGreater.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\bin\Debug\net6.0\01. ExchangeIfGreater.pdb
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\obj\Debug\net6.0\01. ExchangeIfGreater.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\obj\Debug\net6.0\01. ExchangeIfGreater.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\obj\Debug\net6.0\01. ExchangeIfGreater.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\obj\Debug\net6.0\01. ExchangeIfGreater.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\obj\Debug\net6.0\01. ExchangeIfGreater.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\obj\Debug\net6.0\ref\01. ExchangeIfGreater.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\obj\Debug\net6.0\01. ExchangeIfGreater.pdb
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\ExchangeIfGreater\obj\Debug\net6.0\01. ExchangeIfGreater.genruntimeconfig.cache

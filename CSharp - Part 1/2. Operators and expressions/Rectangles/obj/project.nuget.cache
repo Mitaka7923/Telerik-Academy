@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5LhLT/waATESj+AdZ88OOk0EUYvoEUfZNg9QWnODXzsEyTmmI9UYApakNVQsIwIX3WXGfvBfgWqlWqrJ+CSjQ==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\Rectangles\\04. Rectangles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

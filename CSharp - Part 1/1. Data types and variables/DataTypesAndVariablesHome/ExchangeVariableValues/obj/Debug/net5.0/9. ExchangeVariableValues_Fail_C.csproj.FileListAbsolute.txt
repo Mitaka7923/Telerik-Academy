@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\bin\Debug\net5.0\9. ExchangeVariableValues_Fail_C.exe
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\bin\Debug\net5.0\9. ExchangeVariableValues_Fail_C.deps.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\bin\Debug\net5.0\9. ExchangeVariableValues_Fail_C.runtimeconfig.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\bin\Debug\net5.0\9. ExchangeVariableValues_Fail_C.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\bin\Debug\net5.0\9. ExchangeVariableValues_Fail_C.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\bin\Debug\net5.0\ref\9. ExchangeVariableValues_Fail_C.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\bin\Debug\net5.0\9. ExchangeVariableValues_Fail_C.pdb
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\obj\Debug\net5.0\9. ExchangeVariableValues_Fail_C.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\obj\Debug\net5.0\9. ExchangeVariableValues_Fail_C.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\obj\Debug\net5.0\9. ExchangeVariableValues_Fail_C.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\obj\Debug\net5.0\9. ExchangeVariableValues_Fail_C.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\obj\Debug\net5.0\9. ExchangeVariableValues_Fail_C.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\obj\Debug\net5.0\9. ExchangeVariableValues_Fail_C.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\obj\Debug\net5.0\ref\9. ExchangeVariableValues_Fail_C.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\obj\Debug\net5.0\9. ExchangeVariableValues_Fail_C.pdb
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\ExchangeVariableValues\obj\Debug\net5.0\9. ExchangeVariableValues_Fail_C.genruntimeconfig.cache

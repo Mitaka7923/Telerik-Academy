@@ -1,0 +1,15 @@
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\bin\Release\net5.0\EmployeeData.exe
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\bin\Release\net5.0\EmployeeData.deps.json
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\bin\Release\net5.0\EmployeeData.runtimeconfig.json
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\bin\Release\net5.0\EmployeeData.runtimeconfig.dev.json
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\bin\Release\net5.0\EmployeeData.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\bin\Release\net5.0\ref\EmployeeData.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\bin\Release\net5.0\EmployeeData.pdb
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\obj\Release\net5.0\EmployeeData.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\obj\Release\net5.0\EmployeeData.AssemblyInfoInputs.cache
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\obj\Release\net5.0\EmployeeData.AssemblyInfo.cs
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\obj\Release\net5.0\EmployeeData.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\obj\Release\net5.0\EmployeeData.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\obj\Release\net5.0\ref\EmployeeData.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\obj\Release\net5.0\EmployeeData.pdb
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\EmployeeData\obj\Release\net5.0\EmployeeData.genruntimeconfig.cache

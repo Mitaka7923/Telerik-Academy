@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JdS6Lf8MgV+mB38KVxwS/KKMypW+H6n7iqK08P78f7o5jvmp8uK0XJGa86pA2XzgE30xFK+1PCPArieS3bdUIg==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\HomeWork\\3. Console Input and Output\\ConsoleInputOutput\\01.SumOf3Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

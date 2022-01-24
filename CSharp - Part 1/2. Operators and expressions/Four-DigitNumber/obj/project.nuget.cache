@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGpO2Gx5L1Pg25vQKCNxH6v+anR6FyNbNBJTqBuCCZyV1GkwLkNChz8XhwBt7sHEa+CnIllOM16Pf8Fs02DWSQ==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\Four-DigitNumber\\06. Four-DigitNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

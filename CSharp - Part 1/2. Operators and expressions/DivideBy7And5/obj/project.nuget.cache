@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvR7jKSeZDAhbC4zHMb8ebtwYsWIqp8oHWnvTaLAcibW5T0U1WoIDQet3hffgk/ni1UNtEBuhxl18uOU6hOtXQ==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\DivideBy7And5\\03. DivideBy7And5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

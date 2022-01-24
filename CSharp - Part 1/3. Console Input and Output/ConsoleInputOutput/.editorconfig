@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA2241: Provide correct arguments to formatting methods
+dotnet_diagnostic.CA2241.severity = none

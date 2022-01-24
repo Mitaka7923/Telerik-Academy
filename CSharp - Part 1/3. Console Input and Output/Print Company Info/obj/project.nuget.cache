@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/fWekqI93gZrGhZvLeetJWLAR4bZkhysKzEdC6XYAu1Xbqyh+KhWfgTOA5r4M6Z8JtifVNq/W0/PgNtA/C3zoA==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\HomeWork\\3. Console Input and Output\\Print Company Info\\02.PrintCompanyInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\bin\Debug\net5.0\05. ThirdDigitIs7.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\bin\Debug\net5.0\05. ThirdDigitIs7.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\bin\Debug\net5.0\05. ThirdDigitIs7.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\bin\Debug\net5.0\05. ThirdDigitIs7.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\bin\Debug\net5.0\05. ThirdDigitIs7.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\bin\Debug\net5.0\ref\05. ThirdDigitIs7.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\bin\Debug\net5.0\05. ThirdDigitIs7.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\obj\Debug\net5.0\05. ThirdDigitIs7.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\obj\Debug\net5.0\05. ThirdDigitIs7.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\obj\Debug\net5.0\05. ThirdDigitIs7.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\obj\Debug\net5.0\05. ThirdDigitIs7.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\obj\Debug\net5.0\05. ThirdDigitIs7.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\obj\Debug\net5.0\05. ThirdDigitIs7.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\obj\Debug\net5.0\ref\05. ThirdDigitIs7.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\obj\Debug\net5.0\05. ThirdDigitIs7.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ThirdDigitIs7\obj\Debug\net5.0\05. ThirdDigitIs7.genruntimeconfig.cache

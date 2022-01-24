@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\ConsoleInputOutput.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\ConsoleInputOutput.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\ConsoleInputOutput.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\ConsoleInputOutput.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\ConsoleInputOutput.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\ref\ConsoleInputOutput.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\ConsoleInputOutput.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ConsoleInputOutput.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ConsoleInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ConsoleInputOutput.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ConsoleInputOutput.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ConsoleInputOutput.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ConsoleInputOutput.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ref\ConsoleInputOutput.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ConsoleInputOutput.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ConsoleInputOutput.genruntimeconfig.cache

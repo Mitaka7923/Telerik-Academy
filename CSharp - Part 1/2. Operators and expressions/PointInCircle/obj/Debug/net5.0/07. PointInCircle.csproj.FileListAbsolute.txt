@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\bin\Debug\net5.0\07. PointInCircle.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\bin\Debug\net5.0\07. PointInCircle.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\bin\Debug\net5.0\07. PointInCircle.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\bin\Debug\net5.0\07. PointInCircle.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\bin\Debug\net5.0\07. PointInCircle.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\bin\Debug\net5.0\ref\07. PointInCircle.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\bin\Debug\net5.0\07. PointInCircle.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\obj\Debug\net5.0\07. PointInCircle.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\obj\Debug\net5.0\07. PointInCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\obj\Debug\net5.0\07. PointInCircle.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\obj\Debug\net5.0\07. PointInCircle.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\obj\Debug\net5.0\07. PointInCircle.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\obj\Debug\net5.0\07. PointInCircle.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\obj\Debug\net5.0\ref\07. PointInCircle.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\obj\Debug\net5.0\07. PointInCircle.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\PointInCircle\obj\Debug\net5.0\07. PointInCircle.genruntimeconfig.cache

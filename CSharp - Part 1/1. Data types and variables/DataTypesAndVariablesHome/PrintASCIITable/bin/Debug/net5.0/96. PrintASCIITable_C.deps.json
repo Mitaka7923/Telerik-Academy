@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "96. PrintASCIITable_C/1.0.0": {
+        "runtime": {
+          "96. PrintASCIITable_C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "96. PrintASCIITable_C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

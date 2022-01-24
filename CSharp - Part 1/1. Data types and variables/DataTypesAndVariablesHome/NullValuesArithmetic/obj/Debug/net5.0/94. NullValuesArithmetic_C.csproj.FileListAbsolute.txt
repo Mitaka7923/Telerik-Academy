@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\bin\Debug\net5.0\94. NullValuesArithmetic_C.exe
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\bin\Debug\net5.0\94. NullValuesArithmetic_C.deps.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\bin\Debug\net5.0\94. NullValuesArithmetic_C.runtimeconfig.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\bin\Debug\net5.0\94. NullValuesArithmetic_C.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\bin\Debug\net5.0\94. NullValuesArithmetic_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\bin\Debug\net5.0\ref\94. NullValuesArithmetic_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\bin\Debug\net5.0\94. NullValuesArithmetic_C.pdb
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\obj\Debug\net5.0\94. NullValuesArithmetic_C.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\obj\Debug\net5.0\94. NullValuesArithmetic_C.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\obj\Debug\net5.0\94. NullValuesArithmetic_C.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\obj\Debug\net5.0\94. NullValuesArithmetic_C.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\obj\Debug\net5.0\94. NullValuesArithmetic_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\obj\Debug\net5.0\ref\94. NullValuesArithmetic_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\obj\Debug\net5.0\94. NullValuesArithmetic_C.pdb
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\NullValuesArithmetic\obj\Debug\net5.0\94. NullValuesArithmetic_C.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\bin\Debug\net5.0\01. OddOrEvenIntegers.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\bin\Debug\net5.0\01. OddOrEvenIntegers.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\bin\Debug\net5.0\01. OddOrEvenIntegers.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\bin\Debug\net5.0\01. OddOrEvenIntegers.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\bin\Debug\net5.0\01. OddOrEvenIntegers.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\bin\Debug\net5.0\ref\01. OddOrEvenIntegers.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\bin\Debug\net5.0\01. OddOrEvenIntegers.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\obj\Debug\net5.0\01. OddOrEvenIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\obj\Debug\net5.0\01. OddOrEvenIntegers.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\obj\Debug\net5.0\01. OddOrEvenIntegers.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\obj\Debug\net5.0\01. OddOrEvenIntegers.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\obj\Debug\net5.0\01. OddOrEvenIntegers.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\obj\Debug\net5.0\ref\01. OddOrEvenIntegers.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\obj\Debug\net5.0\01. OddOrEvenIntegers.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\obj\Debug\net5.0\01. OddOrEvenIntegers.genruntimeconfig.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ChangeNameAfterSeeing\obj\Debug\net5.0\01. OddOrEvenIntegers.csproj.AssemblyReference.cache

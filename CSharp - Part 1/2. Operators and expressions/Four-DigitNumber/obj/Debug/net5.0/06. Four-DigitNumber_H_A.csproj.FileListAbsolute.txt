@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber_H_A.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber_H_A.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber_H_A.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber_H_A.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber_H_A.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\ref\06. Four-DigitNumber_H_A.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber_H_A.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber_H_A.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber_H_A.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber_H_A.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber_H_A.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber_H_A.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber_H_A.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\ref\06. Four-DigitNumber_H_A.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber_H_A.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber_H_A.genruntimeconfig.cache

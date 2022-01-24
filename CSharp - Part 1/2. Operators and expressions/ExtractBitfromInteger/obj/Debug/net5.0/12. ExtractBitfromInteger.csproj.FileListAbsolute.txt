@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\ref\12. ExtractBitfromInteger.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\bin\Debug\net5.0\12. ExtractBitfromInteger.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\ref\12. ExtractBitfromInteger.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger.genruntimeconfig.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\ExtractBitfromInteger\obj\Debug\net5.0\12. ExtractBitfromInteger.csproj.AssemblyReference.cache

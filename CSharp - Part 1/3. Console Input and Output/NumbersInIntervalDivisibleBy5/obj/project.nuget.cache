@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "04PkHC89qV7/J88rpCZVcf1zyDn2BG4P1SSVjvZ1zKDdrnEQ1z3t0m/OGmFwTJY3TqU0FJJzL6mRYKv/Ckujqw==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\HomeWork\\3. Console Input and Output\\NumbersInIntervalDivisibleBy5\\11.NumbersInIntervalDivisibleBy5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

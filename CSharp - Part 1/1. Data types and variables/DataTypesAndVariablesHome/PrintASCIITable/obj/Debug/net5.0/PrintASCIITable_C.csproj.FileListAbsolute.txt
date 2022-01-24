@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable_C.exe
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable_C.deps.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable_C.runtimeconfig.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable_C.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\bin\Debug\net5.0\ref\PrintASCIITable_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable_C.pdb
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable_C.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable_C.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable_C.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable_C.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\obj\Debug\net5.0\ref\PrintASCIITable_C.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable_C.pdb
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable_C.genruntimeconfig.cache

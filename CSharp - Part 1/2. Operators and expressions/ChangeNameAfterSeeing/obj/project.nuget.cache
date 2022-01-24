@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GEH3RjzX7ULW1rvvT6jE9gBXAG+T+5ALah1B0PL2Q2zPW6phNbvmvTATFWBQL4e+5c8cLs74hfmXw+/GJn0Y1g==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\ChangeNameAfterSeeing\\01. OddOrEvenIntegers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

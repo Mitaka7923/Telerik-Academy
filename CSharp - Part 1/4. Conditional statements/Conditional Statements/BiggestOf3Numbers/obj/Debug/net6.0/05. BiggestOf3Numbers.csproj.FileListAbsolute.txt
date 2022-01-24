@@ -1,0 +1,14 @@
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\bin\Debug\net6.0\05. BiggestOf3Numbers.exe
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\bin\Debug\net6.0\05. BiggestOf3Numbers.deps.json
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\bin\Debug\net6.0\05. BiggestOf3Numbers.runtimeconfig.json
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\bin\Debug\net6.0\05. BiggestOf3Numbers.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\bin\Debug\net6.0\ref\05. BiggestOf3Numbers.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\bin\Debug\net6.0\05. BiggestOf3Numbers.pdb
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\obj\Debug\net6.0\05. BiggestOf3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\obj\Debug\net6.0\05. BiggestOf3Numbers.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\obj\Debug\net6.0\05. BiggestOf3Numbers.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\obj\Debug\net6.0\05. BiggestOf3Numbers.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\obj\Debug\net6.0\05. BiggestOf3Numbers.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\obj\Debug\net6.0\ref\05. BiggestOf3Numbers.dll
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\obj\Debug\net6.0\05. BiggestOf3Numbers.pdb
+D:\DimitarProjects\HomeWork\4. Conditional statements\Conditional Statements\BiggestOf3Numbers\obj\Debug\net6.0\05. BiggestOf3Numbers.genruntimeconfig.cache

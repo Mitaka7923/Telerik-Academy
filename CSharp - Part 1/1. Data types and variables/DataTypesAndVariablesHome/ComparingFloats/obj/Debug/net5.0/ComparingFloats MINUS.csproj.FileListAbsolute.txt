@@ -1,0 +1,16 @@
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\bin\Debug\net5.0\ComparingFloats MINUS.exe
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\bin\Debug\net5.0\ComparingFloats MINUS.deps.json
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\bin\Debug\net5.0\ComparingFloats MINUS.runtimeconfig.json
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\bin\Debug\net5.0\ComparingFloats MINUS.runtimeconfig.dev.json
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\bin\Debug\net5.0\ComparingFloats MINUS.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\bin\Debug\net5.0\ref\ComparingFloats MINUS.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\bin\Debug\net5.0\ComparingFloats MINUS.pdb
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\obj\Debug\net5.0\ComparingFloats MINUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\obj\Debug\net5.0\ComparingFloats MINUS.AssemblyInfoInputs.cache
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\obj\Debug\net5.0\ComparingFloats MINUS.AssemblyInfo.cs
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\obj\Debug\net5.0\ComparingFloats MINUS.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\obj\Debug\net5.0\ComparingFloats MINUS.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\obj\Debug\net5.0\ref\ComparingFloats MINUS.dll
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\obj\Debug\net5.0\ComparingFloats MINUS.pdb
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\obj\Debug\net5.0\ComparingFloats MINUS.genruntimeconfig.cache
+D:\DimitarProjects\DataTypesAndVariablesHome\DataTypesAndVariablesHome\ComparingFloats\obj\Debug\net5.0\ComparingFloats MINUS.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\bin\Debug\net5.0\05.FormattingNumbers.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\bin\Debug\net5.0\05.FormattingNumbers.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\bin\Debug\net5.0\05.FormattingNumbers.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\bin\Debug\net5.0\05.FormattingNumbers.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\bin\Debug\net5.0\05.FormattingNumbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\bin\Debug\net5.0\ref\05.FormattingNumbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\bin\Debug\net5.0\05.FormattingNumbers.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\obj\Debug\net5.0\05.FormattingNumbers.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\obj\Debug\net5.0\05.FormattingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\obj\Debug\net5.0\05.FormattingNumbers.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\obj\Debug\net5.0\05.FormattingNumbers.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\obj\Debug\net5.0\05.FormattingNumbers.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\obj\Debug\net5.0\05.FormattingNumbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\obj\Debug\net5.0\ref\05.FormattingNumbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\obj\Debug\net5.0\05.FormattingNumbers.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Formatting Numbers\obj\Debug\net5.0\05.FormattingNumbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\01.SumOf3Numbers.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\01.SumOf3Numbers.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\01.SumOf3Numbers.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\01.SumOf3Numbers.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\01.SumOf3Numbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\ref\01.SumOf3Numbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\bin\Debug\net5.0\01.SumOf3Numbers.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\01.SumOf3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\01.SumOf3Numbers.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\01.SumOf3Numbers.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\01.SumOf3Numbers.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\01.SumOf3Numbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\ref\01.SumOf3Numbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\01.SumOf3Numbers.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\ConsoleInputOutput\obj\Debug\net5.0\01.SumOf3Numbers.genruntimeconfig.cache

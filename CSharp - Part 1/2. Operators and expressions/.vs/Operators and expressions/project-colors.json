@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73c9e994-db16-47b1-9b4d-f2daaa4eda71": {
+      "ProjectGuid": "73c9e994-db16-47b1-9b4d-f2daaa4eda71",
+      "DisplayName": "13. BitAtPosition",
+      "ColorIndex": 0
+    },
+    "781c510d-ead5-4c21-bb16-2783875839f6": {
+      "ProjectGuid": "781c510d-ead5-4c21-bb16-2783875839f6",
+      "DisplayName": "10. InsideCircleAndOutsideRectangle_H",
+      "ColorIndex": 1
+    },
+    "5a832020-f8d2-4736-b958-ff220b3e5094": {
+      "ProjectGuid": "5a832020-f8d2-4736-b958-ff220b3e5094",
+      "DisplayName": "03. DivideBy7And5",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

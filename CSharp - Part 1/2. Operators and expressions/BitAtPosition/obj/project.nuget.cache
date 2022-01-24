@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBm8Ye3c7BRO9TB/7kbGEndIctyj3cXCqwY6lkR0nLmeu9moE8nDb2CO4Dh0Ae3XOqJQ/PHkVZh7UBcBzCCICg==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\BitAtPosition\\13. BitAtPosition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

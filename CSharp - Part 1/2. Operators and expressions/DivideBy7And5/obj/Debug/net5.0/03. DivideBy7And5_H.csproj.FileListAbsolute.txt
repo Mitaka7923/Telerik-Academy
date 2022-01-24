@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\bin\Debug\net5.0\03. DivideBy7And5_H.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\bin\Debug\net5.0\03. DivideBy7And5_H.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\bin\Debug\net5.0\03. DivideBy7And5_H.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\bin\Debug\net5.0\03. DivideBy7And5_H.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\bin\Debug\net5.0\03. DivideBy7And5_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\bin\Debug\net5.0\ref\03. DivideBy7And5_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\bin\Debug\net5.0\03. DivideBy7And5_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\obj\Debug\net5.0\03. DivideBy7And5_H.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\obj\Debug\net5.0\03. DivideBy7And5_H.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\obj\Debug\net5.0\03. DivideBy7And5_H.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\obj\Debug\net5.0\03. DivideBy7And5_H.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\obj\Debug\net5.0\03. DivideBy7And5_H.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\obj\Debug\net5.0\03. DivideBy7And5_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\obj\Debug\net5.0\ref\03. DivideBy7And5_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\obj\Debug\net5.0\03. DivideBy7And5_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\DivideBy7And5\obj\Debug\net5.0\03. DivideBy7And5_H.genruntimeconfig.cache

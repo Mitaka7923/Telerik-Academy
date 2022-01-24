@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tnErz9US17nhVSdyh/ZYGrzDFogx0NaPxR6BX+C0ZGjPsa3vKVHQAFYotMD1UZF4GUvyjvwNsxzWDluYiHHnbw==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\HomeWork\\3. Console Input and Output\\Quadratic Equation\\06.QuadraticEquation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

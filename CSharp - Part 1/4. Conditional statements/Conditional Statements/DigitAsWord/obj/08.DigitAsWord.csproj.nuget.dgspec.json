@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DimitarProjects\\Telerik-Academy\\4. Conditional statements\\Conditional Statements\\DigitAsWord\\08.DigitAsWord.csproj": {}
+  },
+  "projects": {
+    "D:\\DimitarProjects\\Telerik-Academy\\4. Conditional statements\\Conditional Statements\\DigitAsWord\\08.DigitAsWord.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DimitarProjects\\Telerik-Academy\\4. Conditional statements\\Conditional Statements\\DigitAsWord\\08.DigitAsWord.csproj",
+        "projectName": "08.DigitAsWord",
+        "projectPath": "D:\\DimitarProjects\\Telerik-Academy\\4. Conditional statements\\Conditional Statements\\DigitAsWord\\08.DigitAsWord.csproj",
+        "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
+        "outputPath": "D:\\DimitarProjects\\Telerik-Academy\\4. Conditional statements\\Conditional Statements\\DigitAsWord\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

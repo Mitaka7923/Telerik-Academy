@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqdCpfaSXeDIgfUiQKbGgaV3KINQbpBxh1eJutYnJiQ4FsDIBgJE9GYzPAguo3Swk7fBHPVjEby+CDEEHPs21Q==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\HomeWork\\3. Console Input and Output\\Circle Perimeter And Area\\03.CirclePerimeterAndArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

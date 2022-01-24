@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\ref\06. Four-DigitNumber.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\bin\Debug\net5.0\06. Four-DigitNumber.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\ref\06. Four-DigitNumber.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Four-DigitNumber\obj\Debug\net5.0\06. Four-DigitNumber.genruntimeconfig.cache

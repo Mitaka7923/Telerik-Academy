@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\bin\Debug\net5.0\3. VariableInHexadecimalFormat.exe
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\bin\Debug\net5.0\3. VariableInHexadecimalFormat.deps.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\bin\Debug\net5.0\3. VariableInHexadecimalFormat.runtimeconfig.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\bin\Debug\net5.0\3. VariableInHexadecimalFormat.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\bin\Debug\net5.0\3. VariableInHexadecimalFormat.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\bin\Debug\net5.0\ref\3. VariableInHexadecimalFormat.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\bin\Debug\net5.0\3. VariableInHexadecimalFormat.pdb
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\obj\Debug\net5.0\3. VariableInHexadecimalFormat.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\obj\Debug\net5.0\3. VariableInHexadecimalFormat.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\obj\Debug\net5.0\3. VariableInHexadecimalFormat.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\obj\Debug\net5.0\3. VariableInHexadecimalFormat.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\obj\Debug\net5.0\3. VariableInHexadecimalFormat.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\obj\Debug\net5.0\3. VariableInHexadecimalFormat.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\obj\Debug\net5.0\ref\3. VariableInHexadecimalFormat.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\obj\Debug\net5.0\3. VariableInHexadecimalFormat.pdb
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\VariableInHexadecimalFormat\obj\Debug\net5.0\3. VariableInHexadecimalFormat.genruntimeconfig.cache

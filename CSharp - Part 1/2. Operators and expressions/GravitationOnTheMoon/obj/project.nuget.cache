@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BPm5Uh9yyNq+v7otfzMOBBPByPd4hcZnHGUn/15M/myz9j8ug36SrTRFvYwhTv9DLCPAjfwv7IOyHzMtod1B/A==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\GravitationOnTheMoon\\02. GravitationOnTheMoon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

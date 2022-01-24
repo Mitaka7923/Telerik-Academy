@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cmuu4+myq1n8epB+RdipM7wNiCV9HChHtjky1dthK4p5eyxYPo84Axb0ELsavnXxpAQpQgsDdQh+HnadeBmbog==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\Trapezoids\\09. Trapezoids.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

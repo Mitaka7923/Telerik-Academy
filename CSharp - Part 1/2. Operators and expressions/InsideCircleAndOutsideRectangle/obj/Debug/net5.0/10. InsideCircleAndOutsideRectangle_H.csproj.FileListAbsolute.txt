@@ -1,0 +1,15 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\bin\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\bin\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\bin\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\bin\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\bin\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\bin\Debug\net5.0\ref\10. InsideCircleAndOutsideRectangle_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\bin\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\obj\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\obj\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\obj\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\obj\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\obj\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\obj\Debug\net5.0\ref\10. InsideCircleAndOutsideRectangle_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\obj\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\InsideCircleAndOutsideRectangle\obj\Debug\net5.0\10. InsideCircleAndOutsideRectangle_H.genruntimeconfig.cache

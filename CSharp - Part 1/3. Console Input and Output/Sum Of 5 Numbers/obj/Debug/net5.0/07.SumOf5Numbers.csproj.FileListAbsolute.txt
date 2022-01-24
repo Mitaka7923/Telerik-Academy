@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\bin\Debug\net5.0\07.SumOf5Numbers.exe
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\bin\Debug\net5.0\07.SumOf5Numbers.deps.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\bin\Debug\net5.0\07.SumOf5Numbers.runtimeconfig.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\bin\Debug\net5.0\07.SumOf5Numbers.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\bin\Debug\net5.0\07.SumOf5Numbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\bin\Debug\net5.0\ref\07.SumOf5Numbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\bin\Debug\net5.0\07.SumOf5Numbers.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\obj\Debug\net5.0\07.SumOf5Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\obj\Debug\net5.0\07.SumOf5Numbers.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\obj\Debug\net5.0\07.SumOf5Numbers.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\obj\Debug\net5.0\07.SumOf5Numbers.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\obj\Debug\net5.0\07.SumOf5Numbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\obj\Debug\net5.0\ref\07.SumOf5Numbers.dll
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\obj\Debug\net5.0\07.SumOf5Numbers.pdb
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\obj\Debug\net5.0\07.SumOf5Numbers.genruntimeconfig.cache
+D:\DimitarProjects\HomeWork\3. Console Input and Output\Sum Of 5 Numbers\obj\Debug\net5.0\07.SumOf5Numbers.csproj.AssemblyReference.cache

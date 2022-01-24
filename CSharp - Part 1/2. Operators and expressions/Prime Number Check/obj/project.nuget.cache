@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zHfpn+NIjYjm6xVuxz30cM6D3QAqf5YS9FrkjMU1d6lrUaibNDo81+4xxItrZb+BdbnXbnNG0g2ZVUBPhaq1dw==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\Prime Number Check\\08. PrimeNumberCheck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

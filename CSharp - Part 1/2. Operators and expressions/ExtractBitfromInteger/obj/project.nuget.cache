@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YMVdmzCVValrPMu19LAlXDDSEskoFEdJB5mpYpKipDF+The7zyw6Q4IC4/mjfI7I0FzOnAXjTPOHKM9doZNTg==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\ExtractBitfromInteger\\12. ExtractBitfromInteger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

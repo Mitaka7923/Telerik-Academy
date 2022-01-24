@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5W6+QadL6Mex3ZlQN9sYEa7lvst+LLdgh6SkzeGPenD5xTO44CfsQf7uWqCEg/NmNwhv0O2b9rBrihhf6c7BQ==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\InsideCircleAndOutsideRectangle\\10. InsideCircleAndOutsideRectangle_H.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.exe
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.deps.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.runtimeconfig.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\ref\6. StringsAndObjects.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.pdb
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\ref\6. StringsAndObjects.dll
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.pdb
+D:\DimitarProjects\HomeWork\DataTypesAndVariables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.genruntimeconfig.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.exe
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.deps.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.runtimeconfig.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\ref\6. StringsAndObjects.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\bin\Debug\net5.0\6. StringsAndObjects.pdb
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\ref\6. StringsAndObjects.dll
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.pdb
+D:\DimitarProjects\HomeWork\1. Data types and variables\DataTypesAndVariablesHome\StringsAndObjects\obj\Debug\net5.0\6. StringsAndObjects.genruntimeconfig.cache

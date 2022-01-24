@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5HIbHl/EmeeInDM5+zF78bXhWLvwIkX0wff4mYByHw2W6BFeprKcIphj2Y2oRtE55eKdJPeQqURu0/mOZnuYg==",
+  "success": true,
+  "projectFilePath": "D:\\DimitarProjects\\Telerik-Academy\\Telerik-Academy\\2. Operators and expressions\\ThirdDigitIs7\\05. ThirdDigitIs7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

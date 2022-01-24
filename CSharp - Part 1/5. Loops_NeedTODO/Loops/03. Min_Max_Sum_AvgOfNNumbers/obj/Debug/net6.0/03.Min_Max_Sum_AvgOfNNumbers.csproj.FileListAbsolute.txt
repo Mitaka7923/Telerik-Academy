@@ -1,0 +1,15 @@
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.exe
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.deps.json
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\ref\03.Min_Max_Sum_AvgOfNNumbers.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.pdb
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\ref\03.Min_Max_Sum_AvgOfNNumbers.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.pdb
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.genruntimeconfig.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers.csproj.AssemblyReference.cache

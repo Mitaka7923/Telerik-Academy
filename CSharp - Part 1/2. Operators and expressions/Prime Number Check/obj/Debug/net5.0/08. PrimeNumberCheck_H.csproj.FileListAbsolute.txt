@@ -1,0 +1,16 @@
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck_H.csproj.AssemblyReference.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck_H.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck_H.AssemblyInfoInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck_H.AssemblyInfo.cs
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck_H.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck_H.exe
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck_H.deps.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck_H.runtimeconfig.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck_H.runtimeconfig.dev.json
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\ref\08. PrimeNumberCheck_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\bin\Debug\net5.0\08. PrimeNumberCheck_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\ref\08. PrimeNumberCheck_H.dll
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck_H.pdb
+D:\DimitarProjects\HomeWork\2. Operators and expressions\Prime Number Check\obj\Debug\net5.0\08. PrimeNumberCheck_H.genruntimeconfig.cache
