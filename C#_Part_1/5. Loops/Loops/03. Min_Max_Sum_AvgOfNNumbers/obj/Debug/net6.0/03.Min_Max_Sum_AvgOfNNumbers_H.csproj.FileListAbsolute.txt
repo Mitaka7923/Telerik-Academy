@@ -1,0 +1,15 @@
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.exe
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.deps.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\ref\03.Min_Max_Sum_AvgOfNNumbers_H.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\bin\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.csproj.AssemblyReference.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\ref\03.Min_Max_Sum_AvgOfNNumbers_H.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\03. Min_Max_Sum_AvgOfNNumbers\obj\Debug\net6.0\03.Min_Max_Sum_AvgOfNNumbers_H.genruntimeconfig.cache

@@ -1,0 +1,52 @@
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    color:lightyellow;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bolder;
+}
+
+article header h1 {
+    font-size: 25px;
+}
+
+article p {
+    font-size: large;
+}
+
+article footer p {
+    font-size: medium;
+}
+
+#important-nav-item {
+    text-decoration: underline;
+}
+
+nav {
+    text-align: center;
+    color: white;
+}
+
+#page-footer, #page-header {
+    text-align: center;
+}
+
+.current {
+    background-color: rgb(233, 229, 229);
+}
+
+li {
+    list-style-type: none;
+}
+
+.navigation-list {
+    text-decoration: none;
+    font-weight: bold;
+    color:snow;
+}

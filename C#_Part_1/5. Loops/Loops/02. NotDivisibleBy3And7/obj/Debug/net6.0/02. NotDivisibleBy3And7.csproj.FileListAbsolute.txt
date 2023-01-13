@@ -1,0 +1,30 @@
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.exe
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.deps.json
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\ref\02. NotDivisibleBy3And7.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.pdb
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.csproj.AssemblyReference.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\ref\02. NotDivisibleBy3And7.dll
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.pdb
+D:\DimitarProjects\Telerik-Academy\Telerik-Academy\5. Loops\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.genruntimeconfig.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.exe
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.deps.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\ref\02. NotDivisibleBy3And7.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\bin\Debug\net6.0\02. NotDivisibleBy3And7.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.csproj.AssemblyReference.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\ref\02. NotDivisibleBy3And7.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\02. NotDivisibleBy3And7\obj\Debug\net6.0\02. NotDivisibleBy3And7.genruntimeconfig.cache

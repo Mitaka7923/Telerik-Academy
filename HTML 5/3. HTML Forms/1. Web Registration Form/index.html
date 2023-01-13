@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Form</title>
+        <style>
+            .info{
+                text-align: center;
+                font-weight: bold;
+                width: 150px;
+            }
+
+            .person-info{
+                width: 300px;
+            }
+
+            .table {
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
+
+            .buttons{
+                background-color: aqua;
+            }
+        </style>
+    </head>
+    <body>
+        <form action="#" method="post" >
+            <table class="table" border="1" align="center">
+                <tr>
+                    <td width="150px" class="info"><strong>Last Name</strong></td>
+                    <td width="50px"><input type="text" class="person-info" id="last_name-input" placeholder="Last name"></td>
+                </tr>
+                <tr>
+                    <td class="info"><strong>First Name</strong></td>
+                    <td><input type="text" class="person-info" id="first_name-input" placeholder="First name"></td>
+                </tr>
+                <tr>
+                    <td class="info"><strong>Address</strong></td>
+                    <td><textarea class="person-info" name="address-input" id="address-input" placeholder="Write your address..." style="width: 302px; height: 100px;"></textarea></td>
+                </tr>
+                <tr>
+                    <tr>
+                        <td class="info"><strong>City</strong></td>
+                        <td class="person-info">
+                            <input type="text" name="city-input" size="23" placeholder="City"/> State
+                            <input type="text" name="state-input" style="width: 70px;" maxlength="2" placeholder="State"/>
+                        </td>
+                    </tr>
+                </tr>
+                <tr>
+                    <td class="info"><strong>Zip/Postal Code</strong></td>
+                    <td><input type="text" class="person-info" id="zip_postal-input" name="zip_postal-input" placeholder="Zip/Postal code"></td>
+                </tr>
+                <tr>
+                    <td class="info"><strong>Country</strong></td>
+                    <td>
+                        <select name="country-input" class="person-info" style="width: 308px;">
+                            <option>Bulgaria</option>
+                            <option>Greece</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="info" style="text-align: left;"><strong>Phone (country code, area code, number)</strong></td>
+                    <td>
+                        (+<input type="tel" id="country_code-input" name="country_code-input" minLength="3" maxLength="3" style="width:3em" placeholder="XXX">)
+                        <input type="tel" id="area_code-input" name="area_code-input" minLength="4" maxLength="4" style="width:4em" placeholder="XXXX">
+                        <input type="tel" id="number-input" name="number-input" minLength="5" maxLength="5" style="width: 162px;" placeholder="XXXXX">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="info"><strong>Email</strong></td>
+                    <td><input type="email" class="person-info" id="email-input" name="email-input" placeholder="test@test.test"></td>
+                </tr>
+                <tr>
+                    <td class="info" ><strong>Birth date</strong></td>
+                    <td><input type="date" class="person-info" id="birthday-input" name="birthday-input" style="width: 303px"></td>
+                </tr>
+                <tr>
+                    <td class="info"><strong>Gender</strong></td>
+                    <td>
+                        <select class="person-info" name="gender-info" style="width: 308px">
+                            <option>Male</option>
+                            <option>Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="info"><strong>Starting date</strong></td>
+                    <td class="person-info">
+                        <label><input type="radio" name="started_date">Spring 2015</label>
+                        <label><input type="radio" name="started_date">Summer 2015</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="info">Comments/Questions</td>
+                    <td><textarea class="person-info" name="comments" id="comments" placeholder="Write your concern..." style="width: 302px; height: 100px;"></textarea></td>
+                </tr>
+                <tr class="buttons" id="buttons">
+                    <td colspan="2" align="center">
+                        <input type="submit">
+                        <button type="reset">Clean This Form</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

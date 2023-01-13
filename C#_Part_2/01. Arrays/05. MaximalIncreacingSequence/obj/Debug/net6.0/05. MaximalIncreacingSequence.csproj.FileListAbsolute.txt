@@ -1,0 +1,15 @@
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\bin\Debug\net6.0\05. MaximalIncreacingSequence.exe
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\bin\Debug\net6.0\05. MaximalIncreacingSequence.deps.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\bin\Debug\net6.0\05. MaximalIncreacingSequence.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\bin\Debug\net6.0\05. MaximalIncreacingSequence.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\bin\Debug\net6.0\05. MaximalIncreacingSequence.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\05. MaximalIncreacingSequence.csproj.AssemblyReference.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\05. MaximalIncreacingSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\05. MaximalIncreacingSequence.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\05. MaximalIncreacingSequence.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\05. MaximalIncreacingSequence.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\05. MaximalIncreacingSequence.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\refint\05. MaximalIncreacingSequence.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\05. MaximalIncreacingSequence.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\05. MaximalIncreacingSequence.genruntimeconfig.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\05. MaximalIncreacingSequence\obj\Debug\net6.0\ref\05. MaximalIncreacingSequence.dll

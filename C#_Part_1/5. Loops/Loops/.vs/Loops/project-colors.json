@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebac1247-243e-42f3-946f-414d70d888cf": {
+      "ProjectGuid": "ebac1247-243e-42f3-946f-414d70d888cf",
+      "DisplayName": "01.NumbersFrom1ToN",
+      "ColorIndex": 0
+    },
+    "6ab97a6f-2543-4e18-b8c9-ca530db322c8": {
+      "ProjectGuid": "6ab97a6f-2543-4e18-b8c9-ca530db322c8",
+      "DisplayName": "02. NotDivisibleBy3And7",
+      "ColorIndex": 1
+    },
+    "8b286a76-84f1-492f-915f-c61e26986a45": {
+      "ProjectGuid": "8b286a76-84f1-492f-915f-c61e26986a45",
+      "DisplayName": "03.Min_Max_Sum_AvgOfNNumbers_H",
+      "ColorIndex": 2
+    },
+    "ddc0637c-2992-4792-afbb-d545c114b31b": {
+      "ProjectGuid": "ddc0637c-2992-4792-afbb-d545c114b31b",
+      "DisplayName": "04.StandartDeck",
+      "ColorIndex": 3
+    },
+    "c545f0c3-711b-44cb-9041-4e3d7f49a285": {
+      "ProjectGuid": "c545f0c3-711b-44cb-9041-4e3d7f49a285",
+      "DisplayName": "06.DividingFactorials",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

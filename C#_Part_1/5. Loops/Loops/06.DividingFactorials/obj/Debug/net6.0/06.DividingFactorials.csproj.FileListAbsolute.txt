@@ -1,0 +1,14 @@
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\bin\Debug\net6.0\06.DividingFactorials.exe
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\bin\Debug\net6.0\06.DividingFactorials.deps.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\bin\Debug\net6.0\06.DividingFactorials.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\bin\Debug\net6.0\06.DividingFactorials.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\bin\Debug\net6.0\ref\06.DividingFactorials.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\bin\Debug\net6.0\06.DividingFactorials.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\obj\Debug\net6.0\06.DividingFactorials.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\obj\Debug\net6.0\06.DividingFactorials.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\obj\Debug\net6.0\06.DividingFactorials.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\obj\Debug\net6.0\06.DividingFactorials.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\obj\Debug\net6.0\06.DividingFactorials.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\obj\Debug\net6.0\ref\06.DividingFactorials.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\obj\Debug\net6.0\06.DividingFactorials.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\06.DividingFactorials\obj\Debug\net6.0\06.DividingFactorials.genruntimeconfig.cache

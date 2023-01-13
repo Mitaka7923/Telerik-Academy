@@ -1,0 +1,32 @@
+.header{
+    position: absolute;
+    top: 0px;
+    left: 225px;
+    width: 325px;
+}
+
+.logo{
+    position: relative;
+    left: 30px;
+    width: 65px;
+}
+
+nav {
+    position: relative;
+    left: 10px;
+}
+
+table {
+    position: relative;
+    left: 20px;
+    width: 325px;
+}
+
+table, th, td {
+    width: 325px;
+    border: 1.50px solid;
+    border-collapse: collapse;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

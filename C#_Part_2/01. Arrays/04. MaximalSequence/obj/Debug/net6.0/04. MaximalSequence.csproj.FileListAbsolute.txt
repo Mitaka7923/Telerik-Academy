@@ -1,0 +1,15 @@
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\bin\Debug\net6.0\04. MaximalSequence.exe
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\bin\Debug\net6.0\04. MaximalSequence.deps.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\bin\Debug\net6.0\04. MaximalSequence.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\bin\Debug\net6.0\04. MaximalSequence.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\bin\Debug\net6.0\04. MaximalSequence.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\04. MaximalSequence.csproj.AssemblyReference.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\04. MaximalSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\04. MaximalSequence.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\04. MaximalSequence.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\04. MaximalSequence.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\04. MaximalSequence.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\refint\04. MaximalSequence.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\04. MaximalSequence.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\04. MaximalSequence.genruntimeconfig.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 2\01. Arrays\04. MaximalSequence\obj\Debug\net6.0\ref\04. MaximalSequence.dll

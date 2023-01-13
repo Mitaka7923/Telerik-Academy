@@ -1,0 +1,110 @@
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+#exit-buttons-image {
+    position: absolute;
+    left: 264px;
+    top: 9px;
+}
+
+#calculator-numpad td {
+    border: none;
+    text-align: center;
+}
+
+#calculator-numpad td button {
+    width: 70px;
+    height: 30px;
+    font-size: 12px;
+}
+
+#wrapper main #calculator-grid-navigation tr td button {
+    background-color: rgb(236,236,236);
+}
+
+#calculator-numpad tr td #equals-button {
+    background-color: rgb(41, 50, 76);
+    border: 1px solid rgb(41, 50, 76);
+}
+
+#calculator-grid-navigation button {
+    background-color: rgb(236,236,236);
+    width: 60px;
+    height: 20px;
+    font-size: 8px;
+}
+
+.dropdown {
+    width: 70px;
+    height: 30px;
+}
+
+#calculator-grid-navigation tr #center-cell {
+    padding-left: 27px;
+    padding-right: 15px;
+}
+
+#wrapper {
+    height: 34.5em;
+    background-color: #f3f3f3;
+    margin-right: 71.79em;
+    border: 1px solid black;
+}
+
+#wrapper #modes-menu {
+    border: none;
+    background-color: inherit;
+    border-radius: 5px;
+}
+
+#wrapper #modes-menu:hover {
+    border: none;
+    background-color: rgb(207, 205, 205, .2);
+    border-radius: 5px;
+}
+
+#wrapper button, #calculator-numpad tr td #equals-button {
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+#wrapper button:hover:not([disabled]), #calculator-numpad tr td #equals-button:hover {
+    background-color: rgb(207, 205, 205, .2);
+    border: 1px solid inherit;
+}
+
+#numerical-systems tr td {
+    border-radius: 10px;
+}
+
+#numerical-systems tr:hover { 
+    background-color: rgb(207, 205, 205, .2);
+}
+
+#result-display {
+    font-size: 24px;
+    font-weight: 550;
+    text-align: end;
+    padding-right: 10px;
+}
+
+#wrapper header div img {
+    padding-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 20px;
+    float: left;
+}
+
+#wrapper header div p {
+    font-size: 14px;
+}

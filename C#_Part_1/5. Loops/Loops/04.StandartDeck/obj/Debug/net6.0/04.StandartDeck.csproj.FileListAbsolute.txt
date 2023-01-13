@@ -1,0 +1,14 @@
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\bin\Debug\net6.0\04.StandartDeck.exe
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\bin\Debug\net6.0\04.StandartDeck.deps.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\bin\Debug\net6.0\04.StandartDeck.runtimeconfig.json
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\bin\Debug\net6.0\04.StandartDeck.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\bin\Debug\net6.0\ref\04.StandartDeck.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\bin\Debug\net6.0\04.StandartDeck.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\obj\Debug\net6.0\04.StandartDeck.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\obj\Debug\net6.0\04.StandartDeck.AssemblyInfoInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\obj\Debug\net6.0\04.StandartDeck.AssemblyInfo.cs
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\obj\Debug\net6.0\04.StandartDeck.csproj.CoreCompileInputs.cache
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\obj\Debug\net6.0\04.StandartDeck.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\obj\Debug\net6.0\ref\04.StandartDeck.dll
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\obj\Debug\net6.0\04.StandartDeck.pdb
+D:\DimitarProjects\Telerik-Academy\CSharp - Part 1\5. Loops_NeedTODO\Loops\04.StandartDeck\obj\Debug\net6.0\04.StandartDeck.genruntimeconfig.cache

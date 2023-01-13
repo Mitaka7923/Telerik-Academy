@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul #list-item:hover {
+    text-decoration: underline;
+}
+
+ul #list-item:hover + ul {
+    display: block;
+}
+
+.sublist {
+    color: gray;
+    padding-left: 0.6em;
+    text-decoration: none;
+    display: none;
+}
