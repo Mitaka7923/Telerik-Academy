@@ -1,0 +1,62 @@
+.wrapper {
+    width: min-content;
+    margin-left: 17px;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box > * {
+    flex: 1 1 70px;
+    margin: 0px 0px 0 0px;
+    align-self: center;
+}
+
+
+#store {
+    border: 2px solid black;
+    border-radius: 3px;
+    display: flex;
+    flex-flow: row wrap;
+    width: 416px;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+.item {
+    align-self: flex-end;
+    margin: 5px 5px 5px 5px;
+}
+
+.product fieldset {
+    text-align: center;
+}
+
+main {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    width: 600px;
+}
+
+#main-wrapper {
+    display: flex;
+}
+
+main header {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(0, 129, 194);
+}
+
+main header a {
+    color: inherit;
+}

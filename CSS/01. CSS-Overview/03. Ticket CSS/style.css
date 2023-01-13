@@ -1,0 +1,48 @@
+table {
+    background-color: rgb(156, 154, 154);
+    padding-right: 100px;
+}
+
+table tr td label {
+    font-style: italic;
+    color: white;
+}
+
+table tr td {
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+table #header-row {
+    color: gainsboro;
+    font-size: large;
+}
+
+table tr td img {
+    width: 12px;
+    padding-right: 5px;
+}
+
+#person-info {
+    color: rgb(255, 255, 185);
+}
+
+table tr td a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#support-info {
+    font-weight: 900;
+    color: red;
+}
+
+#action-info {
+    color: gainsboro;
+}
+
+#status-info {
+    font-weight: 800;
+    color: rgb(255, 215, 140)
+}

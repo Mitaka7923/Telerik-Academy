@@ -1,0 +1,13 @@
+h3 {
+    font-family: Consolas;
+    font-weight: bold;
+}
+
+main section p {
+    width: 55em;
+    font-family: Edwardian Script ITC;
+}
+
+main section p, h3 {
+    color: #0094ff;
+}

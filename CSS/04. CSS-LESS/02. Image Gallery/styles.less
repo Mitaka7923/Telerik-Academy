@@ -1,0 +1,25 @@
+.small-image {
+    max-width: 300px;
+    max-height: 100px;
+    margin: 5px;
+}
+
+.big-image {
+    max-width: 800px;
+    max-height: 400px;
+}
+
+label {
+    img {
+        .small-image;
+    }
+
+    input, input:not(:checked) + img {
+        display: none;
+    }
+    
+    input:checked + img {
+        float: left;
+        .big-image;
+    }
+}

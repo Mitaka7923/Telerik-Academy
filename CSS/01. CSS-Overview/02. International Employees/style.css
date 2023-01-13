@@ -1,0 +1,23 @@
+#header-row {
+    background-color: rgb(159, 250, 21);
+    color: white;
+}
+
+#second-row {
+    background-color: rgb(247, 242, 242);
+}
+
+table {
+    border-collapse: collapse;
+    border-color: rgb(196, 155, 155);
+}
+
+#main tr td {
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 25px;
+}
+
+#secondary tr td {
+    padding-right: 5px;
+}
